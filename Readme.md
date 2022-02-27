@@ -3,11 +3,11 @@ A simple OpenCV based facial recognizer that can detect and identify faces
 
 ## Setup
 
-Run "conda install -c conda-forge dlib" to install dlib to your conda python environment and for the rest of the requirement run 'pip install -r requirements.txt'
+Run `conda install -c conda-forge dlib` to install dlib to your conda python environment and for the rest of the requirement run `pip install -r requirements.txt`
 
 ## Structure
 
-- Put harrcascade files to src/ directory
+- Put harrcascade files to `src/` directory
 - Create folder named 'dataset', 'models' in the project root directory
 
 ## Functionality
